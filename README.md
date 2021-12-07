@@ -1,4 +1,4 @@
-This repository contains supplementary material to the paper *Key Mismatch Attack on NewHope Revisited*  
+This repository contains supplementary material to the paper *Key Mismatch Attack on NewHope Revisited* (https://eprint.iacr.org/2020/1389.pdf) 
 
 
 
